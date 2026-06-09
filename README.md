@@ -8,6 +8,8 @@ A full-stack personal finance and subscription management application built with
 
 Backend API: https://smart-budget-tracker-api-mc5a.onrender.com
 
+Note: The backend is hosted on Render's free tier, so the first request may take up to 50 seconds if the server is sleeping.
+
 ## Deployment
 
 - Frontend: Vercel
