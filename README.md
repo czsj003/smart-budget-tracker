@@ -2,6 +2,18 @@
 
 A full-stack personal finance and subscription management application built with React, Node.js, Express, and MongoDB.
 
+## Live Demo
+
+[View Live Demo](https://smart-budget-tracker-livid.vercel.app)
+
+Backend API: https://smart-budget-tracker-api-mc5a.onrender.com
+
+## Deployment
+
+- Frontend: Vercel
+- Backend: Render
+- Database: MongoDB Atlas
+
 ## Features
 
 - User registration and login with JWT authentication
